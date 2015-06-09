@@ -1,0 +1,7 @@
+demoIoTIonic/node_modules/
+demoIoTIonic/temp/
+demoIoTIonic/*.DS_Store
+demoIoTIonic/*.log
+demoIoTIonic/*.swp
+.DS_Store
+demoIoTIonic/platforms
